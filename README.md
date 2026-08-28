@@ -1,4 +1,4 @@
-# onchain-receipts
+# smart-contract-archive
 
 source for every contract i've put onchain
 
@@ -20,7 +20,7 @@ than submodules — a five-year-old `forge build` should work without a network 
 or a version guess.
 
 ```
-onchain-receipts/
+smart-contract-archive/
   README.md                     # this file, plus the deployment table
   jacobs-suspension-market/     # one project
     foundry.toml
