@@ -1,6 +1,4 @@
-# smart-contract-archive
-
-Source for all contracts i've deployed onchain
+# Archive of all smart contracts I've deployed on-chain
 
 This is an archive, not a workspace. Each contract is written on its own branch and only
 lands on `main` once it's actually deployed, so everything on `main` corresponds to
